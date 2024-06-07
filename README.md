@@ -56,18 +56,6 @@
 </p>
 <br />
 
-<!-- About Section -->
- # About Us
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; 800+ ⭐⭐⭐⭐⭐ Ratings <br/><br/>
- ❤️ &emsp; Over 1000+ Satisfied Clients<br/><br/>
- 📧 &emsp; Reach us 24/7: build@buildsync.cc<br/><br/>
-
-</p>
-
 <br/>
 <br/>
 <br/>
